@@ -9,8 +9,6 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        projectPath:
-          - C:\\Users\\neera\\SampleGame
         testMode:
           - playmode
           - editmode
