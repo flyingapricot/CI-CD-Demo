@@ -10,7 +10,7 @@ jobs:
       fail-fast: false
       matrix:
         projectPath:
-          - CI-CD-Demo
+          - C:\\Users\\neera\\SampleGame
         testMode:
           - playmode
           - editmode
